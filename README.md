@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **VitalyBaboshin/VitalyBaboshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <img src="svg/angular_icon_130993.svg" width="64" height="64">
+</p>
+
+![Image alt ](svg/angular_icon_130993.png)
