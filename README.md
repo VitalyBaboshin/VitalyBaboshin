@@ -1,8 +1,7 @@
 Hi there 👋 
 
 I`m Vitaliy, a full-stack engineer who specializes in front-end development.
-![](https://komarev.com/ghpvc/?username=vitalybaboshin&label=PROFILE+VIEWS)
-[![Visits Badge](https://badges.pufler.dev/visits/vitalybaboshin/vitalybaboshin)](https:vitalybaboshin.dev)
+![](https://komarev.com/ghpvc/?username=vitalybaboshin&label=Profile+views)
 ## 💼 Skills
 
 ![Image alt ](svg/angular.png)
@@ -33,7 +32,7 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 ![Image alt ](svg/csharp.png)
 ![Image alt ](svg/mysql.png)
 
-</details>
+
 
 <br>
 
@@ -41,3 +40,10 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
   <img align="center" style="margin:0.5rem" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin&layout=compact&hide=php" />
 </a>
+
+<details>
+<summary>Counter</summary>
+
+[![Visits Badge](https://badges.pufler.dev/visits/vitalybaboshin/vitalybaboshin)](https:vitalybaboshin.dev)
+
+</details>
