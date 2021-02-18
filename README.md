@@ -32,7 +32,7 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 ![Image alt ](svg/csharp.png)
 ![Image alt ](svg/mysql.png)
 
-
+</details>
 
 <br>
 
@@ -46,4 +46,4 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 
 [![Visits Badge](https://badges.pufler.dev/visits/vitalybaboshin/vitalybaboshin)](https:vitalybaboshin.dev)
 
-</details>
+
