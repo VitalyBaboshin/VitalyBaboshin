@@ -43,8 +43,10 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 </a>
 
 <br>
-
+<br>
 <details>
 <summary>Counter</summary>
+<br>
 [![Visits Badge](https://badges.pufler.dev/visits/vitalybaboshin/vitalybaboshin)](https:vitalybaboshin.dev)
+
 </details>
