@@ -4,7 +4,7 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 
 
 
-💼  ####Skills
+💼 Skills
 
 ![Image alt ](svg/angular.png)
 ![Image alt ](svg/html.png)
