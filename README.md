@@ -1,8 +1,8 @@
 Hi there 👋 
 
 I`m Vitaliy, a full-stack engineer who specializes in front-end development.
-
-
+![](https://komarev.com/ghpvc/?username=vitalybaboshin&label=PROFILE+VIEWS)
+[![Visits Badge](https://badges.pufler.dev/visits/vitalybaboshin/vitalybaboshin)](https:vitalybaboshin.dev)
 ## 💼 Skills
 
 ![Image alt ](svg/angular.png)
