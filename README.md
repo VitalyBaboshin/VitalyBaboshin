@@ -17,8 +17,7 @@ https://github.com/vitalybaboshin/github-readme-stats
 ![Image alt ](svg/scss.png)
 ![Image alt ](svg/js.png)
 ![Image alt ](svg/typescript.png)
-![Image alt ](svg/c.png)
-![Image alt ](svg/csharp.png)
+
 
 ![Image alt ](svg/webpack.png)
 ![Image alt ](svg/npm.png)
@@ -28,7 +27,7 @@ https://github.com/vitalybaboshin/github-readme-stats
 ![Image alt ](svg/nodejs.png)
 ![Image alt ](svg/mongodb.png)
 ![Image alt ](svg/firebase.png)
-![Image alt ](svg/mysql.png)
+
 
 ![Image alt ](svg/bootstrap.png)
 ![Image alt ](svg/mat.svg)
@@ -38,8 +37,8 @@ https://github.com/vitalybaboshin/github-readme-stats
 <details>
 <summary>More Skills</summary>
 <br>
-
-![]sdsdsd
-![]sdsdsd
+![Image alt ](svg/c.png)
+![Image alt ](svg/csharp.png)
+![Image alt ](svg/mysql.png)
 
 </details>
