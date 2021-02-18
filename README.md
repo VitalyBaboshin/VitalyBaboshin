@@ -2,10 +2,6 @@ Hi there 👋
 
 I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 
-<a href="https://github.com/vitalybaboshin">
-  <img align="center" style="margin:0.5rem" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin&layout=compact&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 ## 💼 Skills
 
@@ -38,3 +34,8 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 ![Image alt ](svg/mysql.png)
 
 </details>
+
+<a href="https://github.com/vitalybaboshin">
+  <img align="center" style="margin:0.5rem" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin&layout=compact&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
