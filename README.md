@@ -1,9 +1,14 @@
-### Hi there 👋 
+Hi there 👋 
+
 I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 
+<a href="https://github.com/vitalybaboshin">
+  <img align="center" style="margin:0.5rem" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-
-
+https://github.com/vitalybaboshin/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin)](https://github.com/vitalybaboshin/github-readme-stats)
 ## 💼 Skills
 
 ![Image alt ](svg/angular.png)
@@ -28,3 +33,13 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 ![Image alt ](svg/bootstrap.png)
 ![Image alt ](svg/mat.svg)
 
+
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![]sdsdsd
+![]sdsdsd
+
+</details>
