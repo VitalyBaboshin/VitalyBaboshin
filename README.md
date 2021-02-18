@@ -37,8 +37,10 @@ https://github.com/vitalybaboshin/github-readme-stats
 <details>
 <summary>More Skills</summary>
 <br>
-![Image alt ](svg/c.png)
-![Image alt ](svg/csharp.png)
-![Image alt ](svg/mysql.png)
+
+![] ![Image alt ](svg/c.png)
+    ![Image alt ](svg/csharp.png)
+    ![Image alt ](svg/mysql.png)
+
 
 </details>
