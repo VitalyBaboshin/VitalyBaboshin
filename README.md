@@ -42,10 +42,9 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin&layout=compact&hide=php" />
 </a>
 
+<br>
+
 <details>
 <summary>Counter</summary>
-
-<br>
 [![Visits Badge](https://badges.pufler.dev/visits/vitalybaboshin/vitalybaboshin)](https:vitalybaboshin.dev)
-
-
+</details>
