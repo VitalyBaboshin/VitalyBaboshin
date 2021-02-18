@@ -36,14 +36,6 @@ I`m Vitaliy, a full-stack engineer who specializes in front-end development.
 </details>
 
 <br>
-
-<a href="https://github.com/vitalybaboshin">
-  <img align="center" style="margin:0.5rem" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalybaboshin&layout=compact&hide=php" />
-</a>
-
-<br>
-<br>
 <details>
 <summary>Counter</summary>
 <br>
